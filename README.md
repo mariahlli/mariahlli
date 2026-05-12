@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mariahlli/mariahlli/main/github-banner.png" width="100%" alt="Maria Banner"/>
-</div>
+
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
