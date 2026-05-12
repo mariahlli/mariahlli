@@ -107,13 +107,6 @@ goals:
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div>
 <br/>
-<!-- GITHUB STATS SECTION -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="30" height="30"/> GitHub Analytics
-<div align="center">
-  
-  <!-- MAIN STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mariahlli&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&ring_color=58a6ff&rank_icon=github" width="49%" alt="GitHub Stats"/>
-  
   <!-- TOP LANGUAGES -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariahlli&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" width="38%" alt="Top Languages"/>
   &nbsp;
