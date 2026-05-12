@@ -24,16 +24,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&fontSize=0" width="100%"/>
 <!-- ABOUT ME SECTION -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30"/> About Me
-yaml
-Copy
 
 name: Maria
-username: mariahlli
 current_role: "1st Year MSc Artificial Intelligence Student"
-location: "🌍 Earth"
+
 interests:
-  - "🤖 Machine Learning & Deep Learning"
-  - "🧠 Neural Networks & NLP"
+  - " Machine Learning & Deep Learning"
+  - " Neural Networks & NLP"
   - "💻 Full-Stack Development"
   - "🔬 AI Research"
   - "☁️ Cloud Architecture"
@@ -41,10 +38,6 @@ goals:
   - "🎯 Master cutting-edge AI/ML technologies"
   - "🚀 Build impactful AI-powered products"
   - "📚 Contribute to open-source AI projects"
-  - "🔭 Push the boundaries of what's possible"
-
-ambition_level: "Over 9000 💥"
-coffee_consumed: "∞ cups ☕"
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariahlli&bg_color=0d1117&color=58a6ff&line=58a6ff&point=bc8cff&area=true&hide_border=true&custom_title=Maria's%20Contribution%20Graph" width="100%"/>
@@ -117,28 +110,15 @@ coffee_consumed: "∞ cups ☕"
 <!-- GITHUB STATS SECTION -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="30" height="30"/> GitHub Analytics
 <div align="center">
-  <!-- GITHUB TROPHIES -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mariahlli&theme=algolia&no-frame=true&column=7&margin-w=5&margin-h=5" width="100%" alt="Trophies"/>
-</div>
-<br/>
-<div align="center">
+  
   <!-- MAIN STATS -->
   <img src="https://github-readme-stats.vercel.app/api?username=mariahlli&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&ring_color=58a6ff&rank_icon=github" width="49%" alt="GitHub Stats"/>
-  <!-- STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariahlli&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9&currStreakNum=bc8cff&sideNums=c9d1d9" width="49%" alt="Streak Stats"/>
-</div>
-<br/>
-<div align="center">
+  
   <!-- TOP LANGUAGES -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariahlli&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" width="38%" alt="Top Languages"/>
   &nbsp;
   <!-- GITHUB METRICS -->
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mariahlli&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" width="59%" alt="Wakatime Stats"/>
-</div>
-<br/>
-<!-- QUOTE -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false" width="80%" alt="Random Dev Quote"/>
 </div>
 <br/>
 <!-- SNAKE ANIMATION -->
@@ -151,15 +131,7 @@ coffee_consumed: "∞ cups ☕"
   </picture>
 </div>
 <br/>
-<!-- WHAT I'M DOING SECTION -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" alt="Sparkles" width="30" height="30"/> Currently Working On
-<div align="center">
-Table
-🚀 Project	🔧 Stack	📝 Description	Status
-Medical Clinic Management	Java, MySQL	Full-stack clinic management system with patient records, appointments, and billing	<img src="https://img.shields.io/badge/In%20Progress-yellow?style=flat-square"/>
-AI Master's Research	Python, PyTorch	Deep learning research in neural architectures and NLP	<img src="https://img.shields.io/badge/Researching-8A2BE2?style=flat-square"/>
-Open Source Contributions	Various	Contributing to ML and AI open-source projects	<img src="https://img.shields.io/badge/Active-success?style=flat-square"/>
-</div>
+
 <br/>
 <!-- CONNECT SECTION -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Connect" width="30" height="30"/> Let's Connect
@@ -168,7 +140,7 @@ Open Source Contributions	Various	Contributing to ML and AI open-source projects
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/mariahlli">
+  <a href="https://linkedin.com/in/mariahalli">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
@@ -176,23 +148,8 @@ Open Source Contributions	Various	Contributing to ML and AI open-source projects
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
-  <a href="https://twitter.com/mariahlli">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
-  </a>
 </div>
 <br/>
-<!-- FUN FACTS -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Fun Facts" width="30" height="30"/> Random Dev Facts
-<div align="center">
-plain
-Copy
-
-⚡ I can debug code faster with coffee than without
-🎯 Goal: Build AI that makes a real difference in people's lives  
-🔭 Currently exploring: Large Language Models & Generative AI
-🌱 Learning something new every single day
-💡 Fun fact: I started coding because I wanted to understand how AI works
-⚡ "The best way to predict the future is to code it"
 
 </div>
 <br/>
@@ -205,9 +162,9 @@ Copy
 <!-- WAVE FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=&fontSize=0" width="100%"/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Four%20Leaf%20Clover.png" alt="Good Luck" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Launch" width="50" height="50"/>
   <br/>
-  <b>Thanks for stopping by! May your code compile on the first try ✨</b>
+  <b>Thanks for stopping by! May your code compile on the first try </b>
   <br/>
-  <sub>Made with ❤️ and way too much caffeine by <a href="https://github.com/mariahlli">Maria</a></sub>
+  
 </div>
