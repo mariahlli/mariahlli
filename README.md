@@ -117,20 +117,7 @@ goals:
   <!-- TOP LANGUAGES -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariahlli&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&hide=jupyter%20notebook" width="38%" alt="Top Languages"/>
   &nbsp;
-  <!-- GITHUB METRICS -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mariahlli&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" width="59%" alt="Wakatime Stats"/>
-</div>
-<br/>
-<!-- SNAKE ANIMATION -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" height="30"/> Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariahlli/mariahlli/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariahlli/mariahlli/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mariahlli/mariahlli/output/github-contribution-grid-snake.svg"/>
-  </picture>
-</div>
-<br/>
+  
 
 <br/>
 <!-- CONNECT SECTION -->
