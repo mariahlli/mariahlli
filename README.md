@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./github-banner.png" width="100%" />
+</p>
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
