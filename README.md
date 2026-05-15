@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30"/> About Me
 
 name: Maria
-current_role: "1st Year MSc Artificial Intelligence Student"
+current role: 1st Year MSc Artificial Intelligence Student
 
 interests:
   - " Machine Learning & Deep Learning"
