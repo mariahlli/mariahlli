@@ -1,100 +1,66 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:BC8CFF&height=190&section=header&text=Maria&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Artificial%20Intelligence%20·%20Machine%20Learning%20·%20Full-Stack&descSize=17&descAlignY=52" width="100%"/>
-
-<!-- ═══════════════════════ TYPING INTRO ═══════════════════════ -->
+<!-- ══════════════ BOOT SEQUENCE ══════════════ -->
 <div align="center">
-  <a href="https://github.com/mariahlli">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=MSc+Artificial+Intelligence+Student;Deep+Learning+%26+NLP;Full-Stack+Developer;Building+things+that+learn." alt="Typing intro"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2200&pause=700&color=00FF41&background=000000&center=true&vCenter=true&width=600&height=60&lines=initializing+secure+connection...;auth%3A+guest+access+granted;entering+mainframe...;welcome%2C+visitor_" alt="boot sequence"/>
 </div>
 
-<br/>
+```diff
++
++  ███╗   ███╗  █████╗  ██████╗  ██╗  █████╗
++  ████╗ ████║ ██╔══██╗ ██╔══██╗ ██║ ██╔══██╗
++  ██╔████╔██║ ███████║ ██████╔╝ ██║ ███████║
++  ██║╚██╔╝██║ ██╔══██║ ██╔══██╗ ██║ ██╔══██║
++  ██║ ╚═╝ ██║ ██║  ██║ ██║  ██║ ██║ ██║  ██║
++  ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═╝
++
++  msc artificial intelligence · machine learning · full-stack
++
+```
 
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30" align="top"/> About me
+```console
+Last login: from the training loop
 
-I'm a first-year MSc student in Artificial Intelligence who likes owning the whole stack — from the training loop to the interface on top of it.
+visitor@mariahlli:~$ whoami
+maria — msc artificial intelligence, year one
 
-- 🧠 Currently deep in **neural networks & NLP**
-- 🔬 Exploring **AI research** and reading more papers than is healthy
-- 🌱 Contributing to **open-source ML** projects
-- ⚡ Happiest when a model *finally* converges
+visitor@mariahlli:~$ cat about.txt
+neural networks by day, full-stack by night.
+currently deep in nlp and reading papers at 2am.
+mission: ship models that survive contact with production.
 
-<br/>
+visitor@mariahlli:~$ tree ~/skills --dirsfirst
+skills/
+├── ml/           pytorch · tensorflow · scikit-learn · numpy · pandas
+├── languages/    python · java · c · c++ · typescript · sql · r
+├── web/          react · node · fastapi · flask · django
+└── infra/        docker · kubernetes · aws · gcp · linux · git
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30" align="top"/> Tech stack
+visitor@mariahlli:~$ ps aux | grep maria
+maria   0001  99.9%  train-neural-nets      [ RUNNING  ]
+maria   0002  84.3%  nlp-research           [ RUNNING  ]
+maria   0003  71.6%  open-source-contribs   [ RUNNING  ]
+maria   0004  12.0%  sleep                  [ KILLED   ]
+
+visitor@mariahlli:~$ cat /etc/motd
+* open to internships & research collaborations in ai/ml
+* uplinks below. inbox always listening on all ports.
+```
 
 <div align="center">
 
-**AI · Machine Learning · Data**
+&nbsp;
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="ML stack"/>
+[`> linkedin`](https://linkedin.com/in/mariahalli) &nbsp;·&nbsp; [`> email`](mailto:mariahlli@email.com) &nbsp;·&nbsp; [`> github`](https://github.com/mariahlli)
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,c,cpp,ts,js,r,matlab,html,css&theme=dark" alt="Languages"/>
-
-**Web & Frameworks**
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,django,spring,angular,tailwind&theme=dark" alt="Web stack"/>
-
-**Cloud · DevOps · Databases**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,git,githubactions,linux,postgres,mongodb,redis&theme=dark" alt="Infra stack"/>
+&nbsp;
 
 </div>
 
-<br/>
+```console
+visitor@mariahlli:~$ exit
+logout
+```
 
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" align="top"/> Stats
-
+<!-- ══════════════ DISCONNECT ══════════════ -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariahlli&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariahlli&layout=donut&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=jupyter%20notebook&langs_count=6" height="165" alt="Top languages"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=900&color=00FF41&background=000000&center=true&vCenter=true&width=600&height=50&lines=connection+to+mariahlli+closed.;see+you+in+the+mainframe%2C+visitor_" alt="disconnect"/>
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mariahlli&hide_border=true&background=0d1117&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="165" alt="Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariahlli&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=bc8cff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Activity" width="96%" alt="Contribution graph"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariahlli/mariahlli/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariahlli/mariahlli/output/github-contribution-grid-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/mariahlli/mariahlli/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="96%"/>
-  </picture>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="30" align="top"/> Let's connect
-
-<div align="center">
-  <a href="https://linkedin.com/in/mariahalli">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mariahlli@email.com">
-    <img src="https://img.shields.io/badge/Email-BC8CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/mariahlli">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-
-  <br/><br/>
-  <sub>💼 Open to internships & research collaborations in AI/ML</sub>
-</div>
-
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:BC8CFF&height=120&section=footer" width="100%"/>
