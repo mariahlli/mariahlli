@@ -10,11 +10,9 @@
 
 ### About
 
-First-year MSc student in **Artificial Intelligence**.
+Second-year MSc student in Intelligent Computer Systems at USTHB.
 
-I build things end to end — data pipelines, training loops, and the interfaces on top of them. Currently focused on **deep learning** and **NLP**, and contributing to open-source ML.
-
-Looking for hard problems and clean abstractions.
+I enjoy building software from end to end, from designing and implementing applications to solving real-world problems with code. My current interests include artificial intelligence, machine learning, deep learning, natural language processing (NLP), and cybersecurity.
 
 </td>
 <td width="45%" valign="top">
